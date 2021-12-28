@@ -1,0 +1,3 @@
+[submodule "tonic"]
+	path = tonic
+	url = git@github.com:hyperium/tonic.git
